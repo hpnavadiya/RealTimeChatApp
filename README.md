@@ -30,10 +30,8 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 ### Add or Remove users from group
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/add%20rem.PNG)
-### View Other user Profile
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/profile.PNG)
 ## Made By
 
-- [@hpnavadiya]((https://github.com/hpnavadiya/)
+- [@hpnavadiya](https://github.com/hpnavadiya/)
 
   
